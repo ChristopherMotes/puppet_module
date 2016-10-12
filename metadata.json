@@ -1,0 +1,15 @@
+{
+  "name": "motes-puppet_module",
+  "version": "0.1.0",
+  "author": "motes",
+  "summary": "simple testing thingie",
+  "license": "Apache-2.0",
+  "source": "https://github.com/ChristopherMotes/puppet_module",
+  "project_page": "https://github.com/ChristopherMotes/puppet_module",
+  "issues_url": "https://github.com/ChristopherMotes/puppet_module",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
